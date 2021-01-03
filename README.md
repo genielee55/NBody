@@ -2,7 +2,7 @@
 
 NBody is a simulation of the motion of N bodies in a two-dimensional space, accounting for Newton's law of universal gravitation affecting the pairwise force between two particles, whose positions are represented using Cartesian coordinates.
 
-<img src="demo/NBodygif.gif" alt="demo_gif" width="100%"/>
+<center><img src="demo/NBodygif.gif" alt="demo_gif" width="60%"/></center>
  
 
 Feature | Description
